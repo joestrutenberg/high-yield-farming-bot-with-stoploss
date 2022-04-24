@@ -3,5 +3,8 @@ This is the 30-day conclusion of a custom bot I paid $7,500 for. I'm releasing i
 https://youtu.be/0JFaE5S1Q04
 
 
+<img src="https://i.ibb.co/hKJhmRH/Screenshot.jpg" alt="Screenshot" border="0">
+
+
 # high-yield-farming-bot-with-stoploss
 High yield farming bot with stoploss
